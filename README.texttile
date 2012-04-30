@@ -1,0 +1,10 @@
+---
+layout: page
+title: Ruby 101
+tagline: "Redu"
+---
+{% include JB/setup %}
+
+h2. Ruby 101
+
+This repo is answer from exercise for course that Ruby 101 <http://www.redu.com.br/espacos/961> in Redu www.redu.com.br
