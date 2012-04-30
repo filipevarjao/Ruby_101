@@ -1,4 +1,10 @@
-Ruby_101
-========
+---
+layout: page
+title: Ruby 101
+tagline: "Exercise 101"
+---
+{% include JB/setup %}
 
-A class Dessert with getters and setters for name and calories and  a class JellyBean that extends Dessert, and add a getter and setter for flavor.
+h2. 
+
+This repo is answer from exercise for course that Ruby 101 <http://www.redu.com.br/espacos/961> in side Redu www.redu.com.br
