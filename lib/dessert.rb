@@ -1,8 +1,5 @@
 class Dessert
 
-  attr_accessor = :name
-  attr_accessor = :calories
-
   def initialize(name, calories)
     @name = name
     @calories = calories
